@@ -78,7 +78,7 @@ Esta práctica evidenció cómo las herramientas de IA pueden integrarse al proc
 
 ---
 
-## Reflexión final
+## Conclusión
 
 Durante esta semana se consolidó la comprensión de cómo los fundamentos técnicos (como HTTPS y HTML5), las prácticas de accesibilidad y las herramientas de IA convergen para crear **productos digitales innovadores y funcionales**.  
 La combinación de teoría y práctica permitió vivenciar el ciclo completo de desarrollo: desde la planificación estructural hasta la creación de una marca, demostrando la importancia de integrar **tecnología, diseño y creatividad** dentro de la ingeniería web moderna.
